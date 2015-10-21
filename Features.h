@@ -1,5 +1,8 @@
 
-
+/**
+ * File: Features.h
+ * Author: Lili Meng (lilimeng1103@gmail.com)
+ */
 #ifndef FEATURES_H
 #define FEATURES_H
 
